@@ -522,7 +522,7 @@ class Calculator extends Component {
         <div id="calculator-mask" className="remove-highlight">
 
           <div className="output">
-            <span className="total"> { this.state.display } </span>
+            <span className="total">  {this.state.display} </span>
           </div>
 
           <div className="btn clear"></div>
